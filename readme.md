@@ -1,10 +1,10 @@
-1. Napravite repozitorij “zadaca1”
-2. Zatim cete otvoriti intelij
-3. Ici cete na ‘File’ -> ‘New’ -> ‘Project’
-4. Setujte ime ‘zadaca1’
+1. Napravite repozitorij “zadaca1”;
+2. Zatim ćete otvoriti Intelij;
+3. Ići ćete na ‘File’ -> ‘New’ -> ‘Project’;
+4. Setujte ime ‘zadaca1’;
 5. Location setujte path unutar kloniranog repozitorij-a.
    npr. Ako je vas repozitorij u c:\workspace\ onda ga stavite tu.
-   inace je praksa da svi projekti budu u nekom “workspace” folderu.
+   Inače je praksa da svi projekti budu u nekom “workspace” folderu.
 6. Kliknite ‘Create’
    Trebali bi sada imati c:\workspace\zadaca1
    Terminalom otidjite u taj folder
